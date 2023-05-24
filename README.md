@@ -1,1 +1,1 @@
-"# js-classic-games" 
+# js-classic-games
